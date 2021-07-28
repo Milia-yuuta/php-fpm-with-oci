@@ -6,6 +6,7 @@ It's on [docker-hub](https://hub.docker.com/repository/docker/sakurakun222/php-f
 | NAME | VERSION                      |
 | :--------- | :------------------------ | 
 | php        | 8.0-fpm(with-oci8)                     |
+| oracle_instance_client        | 21.1.0.0.0                     |
 
 ## how to build
 
